@@ -1,0 +1,7 @@
+Trīsstūri var izveidot
+Mala a = 7.810249675906654
+Mala b = 6.0
+Mala c = 5.0
+Perimetrs P = 18.810249675906654
+Laukums S = 15.0
+y = -1.2x + 2.2
