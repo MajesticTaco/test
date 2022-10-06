@@ -37,7 +37,7 @@ else:
     Area = (s*(s-a)*(s-b)*(s-c)) ** 0.5
 
     #Aprēķina m ar formulu m = "(y2-y1) / (x2 - x1)"
-    m = (x3 - y3) / (x2 - y2)
+    m = (y3 - y2) / (x3 - x2)
 
     #Aprēķina t ar forumlu "y = mx + t", nav nepieciešams šajā piemērā
     #t = -x3 * m + y3
